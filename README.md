@@ -7,4 +7,6 @@ Step - 1:
 
 Click your mouse on the top-left most point of your slot and drag it down to create the slot 
 
+[](images/i1.PNG)
+
 
